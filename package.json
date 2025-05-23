@@ -17,6 +17,7 @@
   },
   "homepage": "https://github.com/desertperson/node.js#readme",
   "dependencies": {
+    "express": "^5.1.0",
     "underscore": "^1.13.7"
   }
 }
